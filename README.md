@@ -15,10 +15,11 @@ tasm bas (or "bas.asm")
 tlink bas (or "bas.obj")
 bas (or "bas.exe")
 
+Before reading the code or playing the game it is suggested to read the documentation file and the game guide
 
 Next steps for me:
 1. Changing the program to use a screen buffer and not simply print every procedure as it goes.
-2. Changing the level format to a collision checker instead of the current "BasicReset" that is basically a manual code insert that checks where Saxton is and adjusts the floor and ceiling accordingly.
+2. Changing the level format to a collision checker instead of the current "BasicReset" that is basically a manual code insert that checks where Saxton is and adjusts the floor, ceiling, and walls accordingly.
 3. Use a different clock than the es:6ch to get a better framerate/tickrate.
-4. Finish level 6
-5. Create boss levels
+4. Finish level 6.
+5. Create boss levels.

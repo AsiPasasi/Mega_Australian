@@ -1,5 +1,5 @@
 # Mega_Australian
-A Team Fortress 2 IP based Mega Man clone I made as a high school project in Assembly 8086.
+A Team Fortress 2 IP based Mega Man clone I made as a high school project in Assembly 8086. All of the art was made by myself using 
 
 I use Dosbox to compile the code and run it.
 For the game to run properly, you should run dosbox at max cycles or a fixed number above 20000 cycles. This could be changes through the Dosbox options file.
